@@ -1,1 +1,8 @@
-# simple-cart-app
+# Mini Cart Application
+
+To start the Application
+-------------------------
+
+- npm i
+- npm start
+  
